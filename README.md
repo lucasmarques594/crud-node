@@ -1,5 +1,20 @@
 CRUD com Node, Express e Mongoose - Via POSTMAN
 
+
+Como utilizar:
+Instale as framework nodemon, express, mongoose e dotenv
+crie um arquivo .env
+Crie uma conta no MongoDB Atlas e faça uma DB_USER e DB_PASSWORD e vincule ao codigo .env
+
+DB_USER = 
+DB_PASSWORD =
+
+Utilize como interface o proprio POSTMAN a porta 3000 do localhost
+
+e estára funcionando :)
+
+
+
 Este código é uma parte de um sistema web construído com o framework Express.js, que é usado para criar aplicativos web em Node.js. Ele lida com operações básicas de um CRUD (Create, Read, Update, Delete) para uma entidade de "pessoa" em um banco de dados.
 
 Essas operações incluem:
